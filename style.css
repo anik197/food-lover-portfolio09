@@ -11,7 +11,12 @@ h1{
 .orange-color{
     color: chartreuse;
 }
+#anik{
+    width: 30#;
+}
 .flexible-container{
+
+    
     display: flex;
     margin-bottom: 100px;
 }
@@ -20,7 +25,7 @@ h1{
     padding-left: 3%;
 }
 .half-width img{
-    width: 30%;
+    width: 80%;
 }
 .link-button{
     text-decoration: none;
@@ -55,3 +60,27 @@ h1{
     padding-left: 10px;
     box-shadow: 10px 10px 4opx gray;
 }
+.experience-item{
+    width: 40;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+#wev-div{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1 ;
+}
+#Wev-dev-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1 ;
+}
+#third-box{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange,blue);
+    border-image-slice: 1;
+}
+
