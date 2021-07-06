@@ -68,7 +68,9 @@ h1{
 
 }
 .food-area{
-    display: flex;
+  
+  display: flex;
+ 
 }
 
     
@@ -79,7 +81,7 @@ h1{
    
     
     display: flex;
-    
+   
     
 }
 .footer{
